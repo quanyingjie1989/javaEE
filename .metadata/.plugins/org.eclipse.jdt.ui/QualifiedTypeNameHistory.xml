@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Void"/>
+<fullyQualifiedTypeName name="org.asjy.service.GoodsService"/>
+<fullyQualifiedTypeName name="org.asjy.serviceimpl.GoodsServiseImpl"/>
+<fullyQualifiedTypeName name="javax.xml.ws.Response"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="org.asjy.user.dao.XxuserDao"/>
+<fullyQualifiedTypeName name="java.io.DataOutput"/>
+<fullyQualifiedTypeName name="org.asjy.user.dao.XxUserDao"/>
+<fullyQualifiedTypeName name="org.asjy.user.dao.impl.XxUserDaoImpl"/>
+<fullyQualifiedTypeName name="org.asjy.user.service.XxUserService"/>
+<fullyQualifiedTypeName name="org.asjy.user.service.impl.XxUserServiceImpl"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="org.asjy.user.bean.XxUser"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="org.asjy.Bean.Goods"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>
